@@ -44,6 +44,7 @@ body {
 @media (max-width: 767px) {
        .main div {
               width: 80px;
+              height:80px;
               font-size: 35px;
        }
 }
